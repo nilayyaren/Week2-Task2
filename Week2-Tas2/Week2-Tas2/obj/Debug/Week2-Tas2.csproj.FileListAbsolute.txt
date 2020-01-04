@@ -1,0 +1,7 @@
+C:\Users\Niloş\source\repos\Week2-Tas2\Week2-Tas2\obj\Debug\Week2-Tas2.csprojAssemblyReference.cache
+C:\Users\Niloş\source\repos\Week2-Tas2\Week2-Tas2\obj\Debug\Week2-Tas2.csproj.CoreCompileInputs.cache
+C:\Users\Niloş\source\repos\Week2-Tas2\Week2-Tas2\bin\Debug\Week2-Tas2.exe.config
+C:\Users\Niloş\source\repos\Week2-Tas2\Week2-Tas2\bin\Debug\Week2-Tas2.exe
+C:\Users\Niloş\source\repos\Week2-Tas2\Week2-Tas2\bin\Debug\Week2-Tas2.pdb
+C:\Users\Niloş\source\repos\Week2-Tas2\Week2-Tas2\obj\Debug\Week2-Tas2.exe
+C:\Users\Niloş\source\repos\Week2-Tas2\Week2-Tas2\obj\Debug\Week2-Tas2.pdb
