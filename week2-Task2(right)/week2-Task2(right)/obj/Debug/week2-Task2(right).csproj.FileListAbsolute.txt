@@ -1,0 +1,7 @@
+C:\Users\Niloş\source\repos\week2-Task2(right)\week2-Task2(right)\bin\Debug\week2-Task2(right).exe.config
+C:\Users\Niloş\source\repos\week2-Task2(right)\week2-Task2(right)\bin\Debug\week2-Task2(right).exe
+C:\Users\Niloş\source\repos\week2-Task2(right)\week2-Task2(right)\bin\Debug\week2-Task2(right).pdb
+C:\Users\Niloş\source\repos\week2-Task2(right)\week2-Task2(right)\obj\Debug\week2-Task2(right).csprojAssemblyReference.cache
+C:\Users\Niloş\source\repos\week2-Task2(right)\week2-Task2(right)\obj\Debug\week2-Task2(right).csproj.CoreCompileInputs.cache
+C:\Users\Niloş\source\repos\week2-Task2(right)\week2-Task2(right)\obj\Debug\week2-Task2(right).exe
+C:\Users\Niloş\source\repos\week2-Task2(right)\week2-Task2(right)\obj\Debug\week2-Task2(right).pdb
