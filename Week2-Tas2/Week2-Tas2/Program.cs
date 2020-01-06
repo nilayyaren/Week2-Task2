@@ -10,15 +10,15 @@ namespace Week2_Tas2
             {
                 return a + b;
             }
-            if(c == '-')
+            else if(c == '-')
             {
                 return a - b;
             }
-            if(c=='*')
+            else if(c=='*')
             {
                 return a * b;
             }
-            if(c=='/')
+            else if(c=='/')
             {
                 return 1.0f*a / b;
             }
